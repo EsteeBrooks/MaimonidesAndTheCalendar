@@ -1,2 +1,2 @@
 # MaimonidesAndTheCalendar
-Work from internship with NASA Scientist Dr. Jeremy Schnittman in summer of 2020. Converted Maimonides complicated mathematical speech about the calendar into interactive programs. For example calculating the new moon, a date converter, and plotting the longitude of the sun as a function of time.
+Work from internship with NASA Scientist Dr. Jeremy Schnittman in summer of 2020. Studied classical and modern astronomy and Rabbinic literature. Created interactive programs based on Maimonides’ writings on the calendar. Work includes calculating the new moon, a Gregorian to Hebrew or Hebrew to Gregorian date converter, and plotting the longitude of the sun as a function of time.
